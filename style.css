@@ -3,8 +3,7 @@ body {
     font-size: 12px;
     max-width: 960px;
     margin: auto;
-    color : #fff;
-    background: #020202;
+    color : #000000;
 }
 
 main { 
@@ -35,11 +34,10 @@ header {
     margin: auto ;
 
     position: relative;
-    height: 500px;
-    min-height: 500px;
+    height: 300px;
+    min-height: 300px;
     width: 100%;
-    background-image: url(../resumeCV/header-background2.jpg);
-    background-size: cover;
+   background-size: cover;
 }
 
 section {
