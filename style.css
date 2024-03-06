@@ -32,12 +32,12 @@ h3 {
 header {
     text-align: center;
     margin: auto ;
-
+    color: aliceblue;
     position: relative;
     height: 300px;
-    min-height: 300px;
     width: 100%;
-   background-size: cover;
+    background-image: url(../resumeCV/dv-background2.jpg);
+    background-size: cover;
 }
 
 section {
