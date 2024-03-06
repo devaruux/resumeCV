@@ -32,17 +32,14 @@ h3 {
 
 header {
     text-align: center;
-    margin: auto 2em;
+    margin: auto ;
 
     position: relative;
-   height: 800px;
-   min-height: 500px;
-   width: 100%;
-   background: #161415 url(../images/header-background.jpg) no-repeat top center;
-   background-size: cover !important;
-	-webkit-background-size: cover !important;
-   text-align: center;
-   overflow: hidden;
+    height: 500px;
+    min-height: 500px;
+    width: 100%;
+    background-image: url(../resumeCV/header-background2.jpg);
+    background-size: cover;
 }
 
 section {
